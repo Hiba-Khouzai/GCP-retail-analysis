@@ -2,4 +2,4 @@
 apache-airflow-providers-google==10.3.0
 soda-core-bigquery==3.0.45
 
-# apache-airflow-providers-mysql==2.2.2
+#apache-airflow-providers-mysql==2.2.2
